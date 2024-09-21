@@ -46,5 +46,3 @@ https://dribbble.com/TrinhHo
 
 Flexslider
 http://flexslider.woothemes.com
-
-a
